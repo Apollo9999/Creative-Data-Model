@@ -1,7 +1,7 @@
 # Creative-Data-Model
 
 This project is an OCR (tesseract) web interface to upload images. 
-The idea of this project is to study technologies like Python, Django, Tesseract(OCR), Continuous Integration, Celery, etc...
+The idea of this project is to study technologies like Python, Django, Tesseract(OCR), Continuous Integration,  etc...
 
 
 ## How to install and Run
